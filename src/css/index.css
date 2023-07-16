@@ -40,7 +40,7 @@ ul {
   width: 100%;
   margin: 0 auto;
 }
-/* ---- header ----  */
+
 .items {
   padding: 0;
   margin: 0;
@@ -65,12 +65,12 @@ ul {
 .search-form input {
   height: 30px;
   width: 300px;
-  border-radius: 5px;
+  
 }
 .search-form button {
   margin-left: 20px;
   height: 30px;
-  border-radius: 5px;
+  
 }
 .load-more {
   margin: 20px auto;
@@ -80,13 +80,12 @@ ul {
   align-items: center;
   width: 100px;
   height: 30px;
-  border-radius: 5px;
+  
 }
 .gallery__link img {
   object-fit: cover;
   width: 400px;
   height: 340px;
-  border-radius: 20px;
 }
 .gallery__link {
   width: 400px;
@@ -95,7 +94,7 @@ ul {
   gap: 10px;
   display: flex;
   text-decoration: none;
-  border-radius: 20px;
+  
 }
 .info {
   display: flex;
